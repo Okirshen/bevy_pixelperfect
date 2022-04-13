@@ -6,6 +6,7 @@ The plugin adds a few features to simplify 2d development like an integer 2d `Po
 
 | :exclamation:| This is very important   |
 |--------------|:-------------------------|
+
 This project is very early and everything will probably change, it is unoptimized as fuck.
 
 ## Usage
