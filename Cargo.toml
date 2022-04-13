@@ -2,8 +2,10 @@
 name = "bevy_pixelperfect"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+author = "Ofri Kirshen <okirshen@gmail.com>"
+description = "Bevy Pixels integration"
+license = "MIT"
+repository = "https://github.com/Okirshen/bevy_pixelperfect"
 
 [dependencies]
 bevy = { version = "0.6.1", default_features = false, features = ["bevy_winit", "x11"] }
